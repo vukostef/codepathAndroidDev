@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='myappwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +34,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-Emulator would crash the application - my device problem
+Emulator would crash the application - this is an issue with my device, as it wouldn't load the emulator. 
+However testing beforehand the app functionalities work. 
 
 ## License
 
